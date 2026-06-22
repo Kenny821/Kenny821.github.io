@@ -17,20 +17,20 @@ export default function Footer() {
           {/* Logo & Brand */}
           <div className="flex items-center gap-2">
             <span className="font-display font-medium text-sm tracking-widest text-[#E0E0E6]">
-              NOIR_FOLIO
+              KENNY_FOLIO
             </span>
             <div className="w-1.5 h-1.5 rounded-full bg-[#f27d26]" />
           </div>
 
           {/* Copyright description */}
           <div className="text-zinc-500 text-xs text-center font-sans">
-            © 2024-2026 Tech Noir Portfolio. All rights reserved.
+            © 2026 KENNY Portfolio. All rights reserved.
           </div>
 
           {/* Nav Links exactly matching image layout */}
           <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
             <a 
-              href="https://instagram.com" 
+              href="https://www.instagram.com/iskennyyy8/" 
               target="_blank" 
               rel="noreferrer"
               className="text-xs font-sans text-zinc-500 hover:text-white transition-colors"
@@ -38,7 +38,7 @@ export default function Footer() {
               Instagram
             </a>
             <a 
-              href="https://github.com" 
+              href="https://www.github.com/iskennyyy8" 
               target="_blank" 
               rel="noreferrer"
               className="text-xs font-sans text-zinc-500 hover:text-white transition-colors"
@@ -46,21 +46,18 @@ export default function Footer() {
               GitHub
             </a>
             <a 
-              href="https://dribbble.com" 
+              href="https://www.xiaohongshu.com/user/profile/6655e301000000000d024f37" 
               target="_blank" 
               rel="noreferrer"
               className="text-xs font-sans text-zinc-500 hover:text-white transition-colors"
             >
-              Dribbble
+              小红书
             </a>
-            <a 
-              href="https://read.cv" 
-              target="_blank" 
-              rel="noreferrer"
+            <span
               className="text-xs font-sans text-zinc-500 hover:text-white transition-colors"
             >
-              Read.cv
-            </a>
+              微信：kennyy821
+            </span>
           </div>
 
         </div>
