@@ -53,11 +53,14 @@ export default function Footer() {
             >
               小红书
             </a>
-            <span
+            <a 
+              href="https://www.linkedin.com/in/kien-ee-loh-3701513a7" 
+              target="_blank" 
+              rel="noreferrer"
               className="text-xs font-sans text-zinc-500 hover:text-white transition-colors"
             >
-              微信：kennyy821
-            </span>
+              LinkedIn
+            </a>
           </div>
 
         </div>
