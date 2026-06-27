@@ -46,12 +46,12 @@ export default function Footer() {
               GitHub
             </a>
             <a 
-              href="https://www.xiaohongshu.com/user/profile/6655e301000000000d024f37" 
+              href="mailto:kienee821@gmail.com" 
               target="_blank" 
               rel="noreferrer"
               className="text-xs font-sans text-zinc-500 hover:text-white transition-colors"
             >
-              小红书
+              Email
             </a>
             <a 
               href="https://www.linkedin.com/in/kien-ee-loh-3701513a7" 

@@ -124,7 +124,7 @@ export default function ContactForm() {
                           <div className="flex justify-center md:justify-start gap-3 pt-2">
                             <button
                               id="btn-copy-email"
-                              onClick={() => handleCopy('lohke-pm25@student.tarc.edu.my', 'Email')}
+                              onClick={() => handleCopy('kienee821@gmail.com', 'Email')}
                               className="px-5 py-2 text-xs font-mono bg-[#f27d26] text-[#0c0c0c] font-black rounded flex items-center gap-1.5 hover:bg-white transition-all cursor-pointer active:scale-95"
                             >
                               {copiedText === 'Email' ? 'Copied ✓' : 'Copy Email Address'}
